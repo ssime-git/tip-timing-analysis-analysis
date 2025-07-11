@@ -1,0 +1,1 @@
+# NNfit1DRes Methodology Adapted for Tip Timing Analysis
